@@ -1,4 +1,4 @@
 # Front-end Repository ReactJS
-> Front-end usando de exemplo facebook com alguns comentários, utilizando as tecnologias NodeJS, ReactJS, Babel e Webpack.  
+> Front-end Repositório GitHub, utilizando as tecnologias ReactJS, Styled-Component.  
 
 ![](./RepositoryGitHubReactJS.png)
